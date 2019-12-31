@@ -1,0 +1,1 @@
+void fore(char str[][200],int len);
